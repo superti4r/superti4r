@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/superti4r/superti4r/blob/main/mainHeader.png?raw=true"><br>
+  <img src="https://raw.githubusercontent.com/superti4r/superti4r/main/v2.png"><br>
 </p>
