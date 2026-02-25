@@ -1,5 +1,5 @@
 <h1 align="center">Bachtiar Dwi Pramudi</h1>
-<p align="center"><sub>Indonesia 🇮🇩</sub></p>
+<p align="center"><sub>Banyuwangi, Indonesia :indonesia:</sub></p>
 
 <p align="center">
   As a Software Engineer focused on web development, I build innovative and user-friendly solutions to solve real-world problems.<br/>
