@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://instagram.com/superti4r" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="26" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logoColor=white" alt="Instagram" />
   </a>
   <img width="10" />
   <a href="https://www.linkedin.com/in/supertiar" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="26" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
   <img width="10" />
   <a href="https://www.threads.com/@superti4r" target="_blank">
-    <img src="https://cdn.simpleicons.org/threads/FFFFFF" height="26" alt="Threads" />
+    <img src="https://img.shields.io/badge/Threads-111827?style=for-the-badge&logoColor=white" alt="Threads" />
   </a>
   <img width="10" />
   <a href="mailto:bchtrrprmd@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="26" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logoColor=white" alt="Email" />
   </a>
 </p>
 
