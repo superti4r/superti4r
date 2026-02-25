@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://instagram.com/superti4r" target="_blank">
-    <img src="https://img.shields.io/badge/-@superti4r-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/supertiar" target="_blank">
-    <img src="https://img.shields.io/badge/-bachtiar%20dwi%20pramudi-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
