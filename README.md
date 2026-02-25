@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1f2937&height=170&text=Bachtiar%20Dwi%20Pramudi&fontSize=42&fontColor=f8fafc&fontAlignY=42&animation=fadeIn&desc=Fullstack%20Web%20Developer&descSize=24&descAlignY=70&section=header" alt="header" />
-</div>
+<h1 align="center">Bachtiar Dwi Pramudi</h1>
+<p align="center"><sub>Indonesia 🇮🇩</sub></p>
 
 <p align="center">
   As a Software Engineer focused on web development, I build innovative and user-friendly solutions to solve real-world problems.<br/>
@@ -54,8 +53,4 @@
   <a href="https://open.spotify.com/user/0xr5s1pz48sm8jfzeikzyvy07">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=0xr5s1pz48sm8jfzeikzyvy07&count=5&unique=true" alt="Spotify recently played" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1f2937&height=110&section=footer" alt="footer" />
 </div>
