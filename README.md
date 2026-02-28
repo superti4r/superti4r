@@ -26,7 +26,7 @@
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,express,vite,vue,svelte" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,express,vite,vue,svelte,elysia,gin,fiber" alt="Tech Stack" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Elysia.js-111827?style=flat&logo=javascript&logoColor=F7DF1E" alt="Elysia.js" />
